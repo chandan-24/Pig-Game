@@ -4,6 +4,8 @@ This game is created using javascript. The objective was to learn the DOM manupu
 I have only implemented the javascript part.
 
 You can play the game at https://chandan-24.github.io/Pig-Game/
+
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
